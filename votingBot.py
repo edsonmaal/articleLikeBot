@@ -12,5 +12,3 @@ for x in range(3):
     action.click()
     action.perform()
     driver.quit()
-    print(x)
-
